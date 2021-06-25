@@ -1,0 +1,72 @@
+
+[{
+    "clientFrom": "United States",
+    "description": "A Yoga Static Webpage to know more about yoga services, online classes, about the community and more",
+    "domain": "http://therateayoga.com/",
+    "finished": true,
+    "technology": "Wordpress",
+    "title": "Theratea Yoga",
+    "imgPreview": "https://res.cloudinary.com/chimalex/image/upload/v1624662032/portfolio/therateayoga_u5cgy1.png",
+    "status": "Online"
+
+}, {
+    "clientFrom": "United States",
+    "description": "A site where you can see what services are offered to repair your vehicle",
+    "domain": "https://brunosautorepairservice.com/",
+    "finished": true,
+    "technology": "Wordpress",
+    "title": "Brunos Auto Repair Service",
+    "imgPreview": "https://res.cloudinary.com/chimalex/image/upload/v1624656686/portfolio/brunosautorepair_ioe3vc.png",
+    "status": "Online"
+
+}, {
+    "clientFrom": "México",
+    "description": "Clients can see information about bus services offered, contact company and more",
+    "domain": "https://corporativottt.com/",
+    "finished": true,
+    "technology": "Wordpress",
+    "title": "Corporativo TTT",
+    "imgPreview": "https://res.cloudinary.com/chimalex/image/upload/v1624662282/portfolio/corporativottt_jrfzqx.png",
+    "status": "Offline"
+
+}, {
+    "clientFrom": "United States",
+    "description": "A start-up company to get support and prevent loneliness",
+    "domain": "https://friendsoftheheart.com/",
+    "finished": false,
+    "technology": "Wordpress",
+    "title": "Friends Of The Heart",
+    "imgPreview": "https://res.cloudinary.com/chimalex/image/upload/v1624662032/portfolio/friendsoftheheart_vt4nan.png",
+    "status": "Online"
+
+}, {
+    "clientFrom": "United States",
+    "description": "A static website to see general information about donating and charity to the ministry",
+    "domain": "https://ministeriograciasadiostv.com/",
+    "finished": true,
+    "technology": "Wordpress",
+    "title": "Ministerio Gracias a Dios",
+    "imgPreview": "https://res.cloudinary.com/chimalex/image/upload/v1624662032/portfolio/graciasadiostv_czaolr.png",
+    "status": "Online"
+
+}, {
+    "clientFrom": "United States",
+    "description": "An ecommerce website to where you can get t-shirts designed by yourself",
+    "domain": "http://rocastshirts.com/",
+    "finished": false,
+    "technology": "Wordpress",
+    "title": "Rocas T-Shirts",
+    "imgPreview": "https://res.cloudinary.com/chimalex/image/upload/v1624662032/portfolio/rocastshirts.com_ghcefx.png",
+    "status": "Online"
+
+}, {
+    "clientFrom": "United States",
+    "description": "Static website too get services for professional production rental cameras",
+    "domain": "http://tvmobiletruckla.com/",
+    "finished": true,
+    "technology": "Wordpress",
+    "title": "TV Mobile Truck LA",
+    "imgPreview": "https://res.cloudinary.com/chimalex/image/upload/v1624662032/portfolio/tvmobiletruckla.com_pnvisv.png",
+    "status": "Online"
+
+}]
