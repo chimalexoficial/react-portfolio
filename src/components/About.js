@@ -8,7 +8,6 @@ import Button from 'react-bootstrap/Button';
 
 export const About = (() => {
   return (
-    <>
       <div id="#about">
         <div className="container-fluid p-0">
           <section className="resume-section" id="about">
@@ -18,14 +17,21 @@ export const About = (() => {
               <h4>Engineering Software Degree</h4>
               <p> <FontAwesomeIcon icon={faMapMarkerAlt} /> Los Ángeles, CA</p>
               <a href="mailto:usasalgado@gmail.com"><FontAwesomeIcon icon={faEnvelope} /> usasalgado@gmail.com</a><br />
-              <a href="tel:+13237993259"> <FontAwesomeIcon icon={faPhone} /> (323)-799-3259</a>
+              <a href="tel:+13237993259">
+                <FontAwesomeIcon icon={faPhone} /> (323)-799-3259</a>
               <hr />
-              <p className="lead mb-5">Recent engineering degree recipient with a background in web development.<br /> Over 4 years of experience working making Wordpress sites for small companies to reach customers. <br /> Seeking to become a front end developer to next level.</p>
+              <p className="lead mb-5">Recent engineering degree (December 2020) recipient with a background in web development.<br /> Over 4 years of experience working making Wordpress sites for small companies to reach customers. <br /> Seeking to become a front end developer to next level.</p>
 
               <div className="social-icons">
-                <a className="social-icon" href="#!" data-tip="View Linkedin Profile"><i><FontAwesomeIcon icon={faLinkedin} /></i></a>
-                <a className="social-icon" href="#!" data-tip="View Github Profile"><FontAwesomeIcon icon={faGithub} /></a>
-                <a className="social-icon" href="#!" data-tip="Download CV"><FontAwesomeIcon icon={faDownload} /></a>
+                <a className="social-icon" href="#!" data-tip="View Linkedin Profile">
+                  <i><FontAwesomeIcon icon={faLinkedin} /></i>
+                </a>
+                <a className="social-icon" href="#!" data-tip="View Github Profile">
+                  <FontAwesomeIcon icon={faGithub} />
+                </a>
+                <a className="social-icon" href="#!" data-tip="Download CV">
+                  <FontAwesomeIcon icon={faDownload} />
+                </a>
                 <ReactTooltip />
               </div>
 
@@ -35,6 +41,5 @@ export const About = (() => {
           </section>
         </div>
       </div>
-    </>
   )
 })
