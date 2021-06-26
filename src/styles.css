@@ -3172,6 +3172,7 @@ fieldset:disabled .btn {
   background-color: #2f3566;
   border-color: #2f3566;
   margin-bottom: 30px;
+  margin-top: 30px;
 }
 
 .btn-primary:hover {
@@ -7315,8 +7316,8 @@ fieldset:disabled .btn {
   box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
 }
 
-.shadow-lg {
-  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+.shadow-strong {
+  box-shadow: 0 0.70rem 3rem rgba(0, 0, 0, 0.30) !important;
 }
 
 .shadow-none {
@@ -11974,4 +11975,8 @@ section.resume-section .resume-section-content {
 
 .img-sites {
   width: 100%;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
