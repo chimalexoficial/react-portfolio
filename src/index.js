@@ -6,6 +6,7 @@ import { Navbar } from './components/Navbar';
 import { Projects } from './components/Projects';
 import { Skills } from './components/Skills'
 import { Interests } from './components/Interests';
+import { MoreInfo } from './components/MoreInfo';
 
 ReactDOM.render(
   <>
@@ -14,6 +15,7 @@ ReactDOM.render(
     <Projects />
     <Skills />
     <Interests />
+    <MoreInfo/>
   </>,
   document.getElementById('root')
 );
