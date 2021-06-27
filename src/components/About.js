@@ -16,7 +16,11 @@ export const About = (() => {
               <h3>FrontEnd Web Developer</h3>
               <h4>Engineering Software Degree</h4>
               <p> <FontAwesomeIcon icon={faMapMarkerAlt} /> Los Ángeles, CA</p>
-              <a href="mailto:usasalgado@gmail.com"><FontAwesomeIcon icon={faEnvelope} /> usasalgado@gmail.com</a><br />
+              
+              <a href="mailto:usasalgado@gmail.com"><FontAwesomeIcon icon={faEnvelope} /> usasalgado@gmail.com</a>
+              
+              <br />
+
               <a href="tel:+13237993259">
                 <FontAwesomeIcon icon={faPhone} /> (323)-799-3259</a>
               <hr />
@@ -32,6 +36,7 @@ export const About = (() => {
                 <a className="social-icon" href="https://res.cloudinary.com/chimalex/image/upload/v1624820080/portfolio/CV_k2sstr.pdf" data-tip="Download CV" target="_blank" rel="noreferrer">
                   <FontAwesomeIcon icon={faDownload} />
                 </a>
+
                 <ReactTooltip />
               </div>
 
