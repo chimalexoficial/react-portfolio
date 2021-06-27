@@ -29,7 +29,7 @@ export const About = (() => {
                 <a className="social-icon" href="https://github.com/chimalexoficial" data-tip="View Github Profile" target="_blank" rel="noreferrer" >
                   <FontAwesomeIcon icon={faGithub} />
                 </a>
-                <a className="social-icon" href="#!" data-tip="Download CV" target="_blank" rel="noreferrer">
+                <a className="social-icon" href="https://res.cloudinary.com/chimalex/image/upload/v1624820080/portfolio/CV_k2sstr.pdf" data-tip="Download CV" target="_blank" rel="noreferrer">
                   <FontAwesomeIcon icon={faDownload} />
                 </a>
                 <ReactTooltip />
