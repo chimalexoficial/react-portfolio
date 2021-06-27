@@ -16,7 +16,7 @@ export const MoreInfo = () => {
                     <br />
                     <div>
                         <ExternalLink href="https://github.com/chimalexoficial/react-portfolio/">
-                            <h3>View source code on Github</h3>
+                            <h3 id="source-code">View source code on Github</h3>
                         </ExternalLink>
                     </div>
                 </div>

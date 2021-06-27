@@ -23,13 +23,13 @@ export const About = (() => {
               <p className="lead mb-5">Recent engineering degree (December 2020) recipient with a background in web development.<br /> Over 4 years of experience working making Wordpress sites for small companies to reach customers. <br /> Seeking to become a front end developer to next level.</p>
 
               <div className="social-icons">
-                <a className="social-icon" href="#!" data-tip="View Linkedin Profile">
+                <a className="social-icon" href="https://www.linkedin.com/in/alexis-salgado-963832127/" data-tip="View Linkedin Profile" target="_blank" rel="noreferrer">
                   <i><FontAwesomeIcon icon={faLinkedin} /></i>
                 </a>
-                <a className="social-icon" href="#!" data-tip="View Github Profile">
+                <a className="social-icon" href="https://github.com/chimalexoficial" data-tip="View Github Profile" target="_blank" rel="noreferrer" >
                   <FontAwesomeIcon icon={faGithub} />
                 </a>
-                <a className="social-icon" href="#!" data-tip="Download CV">
+                <a className="social-icon" href="#!" data-tip="Download CV" target="_blank" rel="noreferrer">
                   <FontAwesomeIcon icon={faDownload} />
                 </a>
                 <ReactTooltip />

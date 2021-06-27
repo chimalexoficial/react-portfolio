@@ -21,7 +21,7 @@ export const Projects = (() => {
                                         <p><strong>Client from: </strong>{site.clientFrom}</p>
                                         <p><strong>Status: </strong>{site.status}</p>
                                         <p id="finished"><strong>Finished: </strong>{site.finished}</p>
-                                        <Button variant="primary" href={site.domain}>VISIT WEBSITE</Button>
+                                        <Button target="_blank" variant="primary" href={site.domain}>VISIT WEBSITE</Button>
                                     </div>
                                     <div className="container shadow-strong p-3 rounded">
                                         <img className="img-sites" src={site.imgPreview} alt="Website" />
