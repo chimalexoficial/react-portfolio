@@ -8,7 +8,7 @@ export const Navbar = () => {
             <nav className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
                 <a className="navbar-brand js-scroll-trigger" href="#page-top">
                     <span className="d-none d-lg-block">
-                        <img className="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://media-exp1.licdn.com/dms/image/C4E03AQFRxNqIsOfKPA/profile-displayphoto-shrink_800_800/0/1526925332125?e=1629936000&v=beta&t=8UgNG6PMsxaDHnu1cngBjHSyRPShlW9eM4VGXaXODq0" alt="Profile" />
+                        <img className="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://media-exp1.licdn.com/dms/image/C5603AQHiTqAUhpCvbA/profile-displayphoto-shrink_800_800/0/1627755798037?e=1633564800&v=beta&t=gQpYsnGmurpizn_P6vxbcmGfLwdfqgmXwzQfkhoVLpM" alt="Profile" />
                     </span>
                 </a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">

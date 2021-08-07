@@ -34,7 +34,7 @@ export const About = (() => {
                   <FontAwesomeIcon icon={faGithub} />
                 </a>
 
-                <a className="social-icon" data-tip="Download CV" target="_blank"  href="https://res.cloudinary.com/chimalex/image/upload/v1624820080/portfolio/CV_k2sstr.pdf" rel="noreferrer">
+                <a className="social-icon" data-tip="Download CV" target="_blank"  href="https://res.cloudinary.com/chimalex/image/upload/v1628309647/portfolio/Arturo_SalgadoFV_cdlhc4.pdf" rel="noreferrer">
                   <FontAwesomeIcon icon={faDownload} />
                 </a>
 
