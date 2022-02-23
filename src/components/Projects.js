@@ -16,11 +16,9 @@ export const Projects = (() => {
                                 <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
                                     <div className="flex-grow-1">
                                         <h3 className="mb-0">{site.title}</h3>
-                                        <div className="subheading mb-3">Technology: {site.technology}</div>
                                         <p>{site.description}</p>
                                         <p><strong>Client from: </strong>{site.clientFrom}</p>
                                         <p><strong>Status: </strong>{site.status}</p>
-                                        <p id="finished"><strong>Finished: </strong>{site.finished}</p>
                                         <Button target="_blank" variant="primary" href={site.domain}>VISIT WEBSITE</Button>
                                     </div>
                                     <div className="container shadow-strong p-3 rounded">
