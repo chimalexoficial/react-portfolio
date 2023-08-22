@@ -41,6 +41,8 @@ export const Skills = () => {
                         </li>
                     </ul>
                     <ReactTooltip />
+                    <p>HTML, CSS, Javascript, Vanilla Javascript, React, Bootstrap, Tailwind CSS, SQL, DynamoDB, MySQL,
+                        Wordpress, SquareUp, CMS, Cloud Computing, Amazon Web Services, Linux, Ansible, Jenkins, Terraform, Docker. </p>
                 </div>
             </section>
         </div>

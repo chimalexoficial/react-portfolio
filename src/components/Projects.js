@@ -8,7 +8,6 @@ export const Projects = (() => {
     return (
         <>
             <div id="projects">
-                <h2 className="mb-5">Projects</h2>
                 {
                     sites.map(site => <div key={site.title} className="container-fluid p-0">
                         <section className="resume-section">
